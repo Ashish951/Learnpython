@@ -43,6 +43,7 @@ num7=int('3')
 print(num7)
 type(num7)
 
+
 # single quote and double quote
 #Both are same
 text1="Hi Iam ashish"
